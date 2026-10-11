@@ -1,0 +1,102 @@
+{
+  "us": {
+    "3": {
+      "easy": 129,
+      "medium": 369,
+      "hard": 140,
+      "allowed": 972
+    },
+    "4": {
+      "easy": 324,
+      "medium": 925,
+      "hard": 351,
+      "allowed": 3903
+    },
+    "5": {
+      "easy": 412,
+      "medium": 1178,
+      "hard": 448,
+      "allowed": 8636
+    },
+    "6": {
+      "easy": 443,
+      "medium": 1267,
+      "hard": 481,
+      "allowed": 15232
+    },
+    "7": {
+      "easy": 431,
+      "medium": 1230,
+      "hard": 467,
+      "allowed": 23109
+    },
+    "8": {
+      "easy": 353,
+      "medium": 1009,
+      "hard": 383,
+      "allowed": 28420
+    },
+    "9": {
+      "easy": 280,
+      "medium": 801,
+      "hard": 304,
+      "allowed": 24875
+    },
+    "10": {
+      "easy": 194,
+      "medium": 553,
+      "hard": 210,
+      "allowed": 20305
+    }
+  },
+  "uk": {
+    "3": {
+      "easy": 129,
+      "medium": 369,
+      "hard": 140,
+      "allowed": 972
+    },
+    "4": {
+      "easy": 324,
+      "medium": 922,
+      "hard": 350,
+      "allowed": 3903
+    },
+    "5": {
+      "easy": 410,
+      "medium": 1173,
+      "hard": 449,
+      "allowed": 8636
+    },
+    "6": {
+      "easy": 443,
+      "medium": 1264,
+      "hard": 477,
+      "allowed": 15232
+    },
+    "7": {
+      "easy": 428,
+      "medium": 1226,
+      "hard": 468,
+      "allowed": 23109
+    },
+    "8": {
+      "easy": 350,
+      "medium": 1002,
+      "hard": 383,
+      "allowed": 28420
+    },
+    "9": {
+      "easy": 281,
+      "medium": 802,
+      "hard": 304,
+      "allowed": 24875
+    },
+    "10": {
+      "easy": 196,
+      "medium": 557,
+      "hard": 213,
+      "allowed": 20305
+    }
+  }
+}
